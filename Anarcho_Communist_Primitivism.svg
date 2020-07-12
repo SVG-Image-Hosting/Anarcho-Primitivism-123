@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="600"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="Anarcho_Communist_Primitivism.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   enable-background="new">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter822">
+      <feBlend
+         inkscape:collect="always"
+         mode="screen"
+         in2="BackgroundImage"
+         id="feBlend824" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     id="namedview8"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.61555554"
+     inkscape:cx="385.33324"
+     inkscape:cy="251.155"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Field"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <polygon
+       points="0,0 0,600 900,0 "
+       id="polygon4"
+       style="fill:#1f833c" />
+    <path
+       d="M 900,0 V 600 H 0 Z"
+       id="rect2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Canton"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Fimbriation"
+     style="opacity:1;filter:url(#filter822)"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Emblem"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ffffff;stroke-width:0.66666663"
+       inkscape:connector-curvature="0"
+       id="path2"
+       d="m 450,100 a 200,200 0 0 1 0,400 200,200 0 0 1 0,-400 z M 399.33333,297.33333 H 500.66667 L 450,188.66667 Z M 520.66666,340 H 379.33334 l -35.66667,76.33333 a 157.66666,157.66666 0 0 0 212.66666,0 z M 476.66667,145.00001 586,379.66667 A 157.66666,157.66666 0 0 0 476.66667,145.00001 Z m -53.33334,0 A 157.66666,157.66666 0 0 0 314,379.66667 Z" />
+  </g>
+</svg>
